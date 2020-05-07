@@ -1,4 +1,4 @@
-This is repository for my scripts.
+This is a GIT repository for my scripts.
 
 You can use these scripts for your environment and modify them according to your need.
 
